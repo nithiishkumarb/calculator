@@ -1,0 +1,14 @@
+button{
+    height:60px;
+    width:80px;
+    background-color: black;
+    color:white;
+    border:1px solid white;
+    cursor:pointer;
+}
+button:hover{
+    background-color:rgb(40, 38, 38)
+}
+button.operator{
+    background-color: orangered;
+}
