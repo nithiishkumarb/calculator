@@ -21,7 +21,7 @@ ColorMath is a calculator application developed with React.js. It offers standar
 
 To use ColorMath, simply clone this repository to your local machine and run the following commands:
 
-``bash
+```bash
 git clone https://github.com/nithiishkumarb/ColorMath.git
 cd ColorMath
 npm install
