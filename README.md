@@ -29,6 +29,29 @@ npm start
 
 ## Usage
 
-Launch the ColorMath application by running npm start in the project directory. Use the provided buttons to perform arithmetic calculations. The application provides a seamless user experience with its intuitive interface and vibrant color palette.
+Launch the ColorMath application by running `npm start` in the project directory. Use the provided buttons to perform arithmetic calculations. The application provides a seamless user experience with its intuitive interface and vibrant color palette.
+
+## Color Scheme
+
+ColorMath incorporates a bold color scheme consisting of shades of orange and black. This choice was made to enhance the visual appeal of the application and create a modern, dynamic look.
+
+## Screenshots
+
+![Screenshot (130)](https://github.com/nithiishkumarb/calculator/assets/134282957/f24ddb6f-3618-49be-9cb4-6b995351c3b5)
+
+## Technologies Used
+
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+## Contributing
+
+Contributions to ColorMath are welcome! If you have any ideas for improvements or new features, feel free to fork this repository and submit pull requests.
+
+## License
+
+ColorMath is licensed under the MIT License.
 
 
