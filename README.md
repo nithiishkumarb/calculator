@@ -27,7 +27,7 @@ cd ColorMath
 npm install
 npm start
 
-##Usage
+## Usage
 
 Launch the ColorMath application by running npm start in the project directory. Use the provided buttons to perform arithmetic calculations. The application provides a seamless user experience with its intuitive interface and vibrant color palette.
 
